@@ -1,0 +1,19 @@
+{
+  "name": "base-package",
+  "version": "1.0.0",
+  "description": "Creates a TypeScript package template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "template",
+    "base-package",
+    "typescript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "base-package": "bin/clone.sh"
+  }
+}
