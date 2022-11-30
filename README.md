@@ -1,4 +1,4 @@
-# base-package
+# create-base-package
 Create a TypeScript package with the essential tools:
 
 1. Initialized git repository
@@ -9,13 +9,13 @@ Create a TypeScript package with the essential tools:
 
 ### How to use
 ````sh
-npx base-package
+npx create-base-package
 ````
 
 This will download the template in the directory you are executing this command. You can pass an argument to change the directory:
 
 ````sh
-npx base-package my-new-package-name
+npx create-base-package my-new-package-name
 ````
 
 The directory **must** be empty. If not, it won't download the template

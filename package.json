@@ -1,5 +1,5 @@
 {
-  "name": "base-package",
+  "name": "create-base-package",
   "version": "1.0.0",
   "description": "Creates a TypeScript package template",
   "main": "index.js",
@@ -14,6 +14,6 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "base-package": "bin/clone.sh"
+    "create-base-package": "bin/clone.sh"
   }
 }
