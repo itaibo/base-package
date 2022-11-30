@@ -1,3 +1,5 @@
+> :point_up: **Using get-template**: `npx get-template package`
+
 # create-base-package
 Create a TypeScript package with the essential tools:
 
