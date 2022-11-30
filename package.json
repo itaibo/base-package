@@ -15,5 +15,13 @@
   "license": "ISC",
   "bin": {
     "create-base-package": "bin/clone.sh"
+  },
+  "homepage": "https://github.com/itaibo/create-base-package#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itaibo/create-base-package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itaibo/create-base-package/issues"
   }
 }
